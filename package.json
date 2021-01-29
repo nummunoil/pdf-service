@@ -1,0 +1,23 @@
+{
+  "name": "pdf-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nummunoil/pdf-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nummunoil/pdf-service/issues"
+  },
+  "homepage": "https://github.com/nummunoil/pdf-service#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pdfkit": "^0.11.0"
+  }
+}
